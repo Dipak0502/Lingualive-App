@@ -1,0 +1,11 @@
+{
+  "name": "LinguaLive",
+  "description": "Real-time two-way speech and text translator with multi-language conversation mode, tone adjustment, offline language packs, and transcript export.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
